@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://sg.bhsonline.us/bhsDocsUploadService1.asmx?wsdl" docRef="https://sg.bhsonline.us/bhsDocsUploadService1.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://sg.bhsonline.us/bhsDocsUploadService1.asmx" xmlns:q1="https://sg.bhsonline.us/bhsDocsUploadService1.asmx" binding="q1:bhsDocsUploadService1Soap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://sg.bhsonline.us/bhsDocsUploadService1.asmx" xmlns:q2="https://sg.bhsonline.us/bhsDocsUploadService1.asmx" binding="q2:bhsDocsUploadService1Soap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
